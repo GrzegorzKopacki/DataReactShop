@@ -15,7 +15,7 @@ In this video, I have covered three simple steps to quickly deploy your **JSON S
 Three Simple Steps:
 
 1. Create a repository from the template.
-2. Add your own data.
+2. Add you own data.
 3. Deploy it.
 
 Believe me, this is the **easiest way** to deploy your JSON server on render.com. Deploy your db.json file without writing a **single line of code**.
