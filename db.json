@@ -46,8 +46,8 @@
         "priceUSD": 59,
         "photos": [
           "https://datareactshop.onrender.com/product-photos/women-sweater-1.jpg",
-          "https://datareactshop.onrender.com/product-photos/women-trousers-2.jpg",
-          "https://datareactshop.onrender.com/product-photos/women-trousers-1.jpg"
+          "https://datareactshop.onrender.com/product-photos/women-sweater-1.jpg",
+          "https://datareactshop.onrender.com/product-photos/women-sweater-1.jpg"
         ],
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
         "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
@@ -63,8 +63,8 @@
         "priceUSD": 39,
         "photos": [
           "https://datareactshop.onrender.com/product-photos/women-trousers-1.jpg",
-          "https://datareactshop.onrender.com/product-photos/women-trousers-2.jpg",
-          "https://datareactshop.onrender.com/product-photos/women-trousers-2.jpg"
+          "https://datareactshop.onrender.com/product-photos/women-trousers-1.jpg",
+          "https://datareactshop.onrender.com/product-photos/women-trousers-1.jpg"
         ],
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
         "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
@@ -655,10 +655,11 @@
       "priceUSD": 10,
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-shoes-1.jpg",
+        "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
         "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg"
       ],
-      "description": "Opis produktu pobrany z back endu ;)",
-      "maintenanceInfo": "Informacje o konserwacji pobrane z back-endu"
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
     },
     {
       "id": 27,
@@ -671,7 +672,7 @@
       "priceUSD": 39,
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-shoes-3.jpg",
+      "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
         "https://datareactshop.onrender.com/product-photos/women-shoes-1.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
@@ -688,8 +689,8 @@
       "priceUSD": 59,
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-sweater-1.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-trousers-1.jpg"
+       "https://datareactshop.onrender.com/product-photos/women-sweater-1.jpg",
+       "https://datareactshop.onrender.com/product-photos/women-sweater-1.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
       "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
@@ -723,7 +724,7 @@
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-shoes-1.jpg",
         "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-shoes-3.jpg"
+        "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
       "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
@@ -790,7 +791,7 @@
       "priceUSD": 39,
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-shoes-3.jpg",
+        "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
         "https://datareactshop.onrender.com/product-photos/women-shoes-1.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
@@ -842,7 +843,7 @@
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-shoes-1.jpg",
         "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-shoes-3.jpg"
+        "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
       "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
@@ -858,7 +859,7 @@
       "priceUSD": 39,
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-shoes-3.jpg",
+        "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
         "https://datareactshop.onrender.com/product-photos/women-shoes-1.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
@@ -909,7 +910,7 @@
       "priceUSD": 39,
       "photos": [
         "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
-        "https://datareactshop.onrender.com/product-photos/women-shoes-3.jpg",
+        "https://datareactshop.onrender.com/product-photos/women-shoes-2.jpg",
         "https://datareactshop.onrender.com/product-photos/women-shoes-1.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
